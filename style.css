@@ -1,0 +1,48 @@
+/* index.html */
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+
+.name {
+    text-align: center;
+    color: #848484;
+    font-size: 2em;
+}
+.photography {
+    text-align: center;
+    color:#848484;
+    font-size: 1.5em;
+}
+.intrebare {
+    text-align: center;
+    color: red;
+    font-size: 1em;
+}
+.nav-links {
+    display: block;
+    text-align: center;
+    color:#848484;
+    font-size: 1em;
+
+}
+.home {
+    display: inline;
+}
+.portfolio {
+    display: inline;
+}
+.about-me {
+    display: inline;
+}
+.contact {
+    display: inline;
+}
+
+/* contact.html */
+
+#info {
+    text-align: center;
+    font-size: 1em; 
+    color:#848484;
+}
